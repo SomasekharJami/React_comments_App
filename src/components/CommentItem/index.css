@@ -1,0 +1,104 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+.listItem {
+  width: 89vw;
+  list-style: none;
+}
+.initial-container {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border-radius: 15px;
+}
+.listFirst {
+  display: flex;
+  align-items: flex-start;
+}
+.matterCon {
+  padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.detailsCon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nameP {
+  color: #1e293b;
+  font-size: 1.8vw;
+  font-weight: 530;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+.timeP {
+  color: #94a3b8;
+  font-size: 1vw;
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+.descP {
+  margin-top: 5px;
+  color: #334155;
+  font-size: 1.5vw;
+}
+.listSecond {
+  display: flex;
+  justify-content: space-between;
+}
+.likeBton {
+  height: 4vw;
+  border: none;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.likeImg {
+  width: 2vw;
+}
+.like {
+  font-size: 1.5vw;
+  color: #7e858e;
+  padding-left: 1vw;
+}
+.deleteBton {
+  border: none;
+  background-color: transparent;
+}
+.deleteImg {
+  width: 2vw;
+}
+.active {
+  color: #0ea5e9;
+  font-size: 1.5vw;
+  padding-left: 1vw;
+}

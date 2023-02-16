@@ -1,0 +1,105 @@
+.mainCon {
+  margin: 0;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+.firstCon {
+  display: flex;
+  width: 90vw;
+  height: 70vh;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #7e858e;
+  align-items: flex-end;
+}
+.mainImg {
+  order: 2;
+  height: 28vw;
+  margin-top: 15vh;
+}
+.sideCon {
+  order: 1;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.mainH {
+  color: #1e293b;
+  font-size: 4vw;
+}
+.formP {
+  color: #475569;
+  font-size: 1.5vw;
+}
+.mainForm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.inpEl {
+  width: 30vw;
+  border: 1px solid #cbd2d9;
+  font-size: 1.5vw;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  outline: none;
+}
+.textEl {
+  width: 30vw;
+  height: 20vh;
+  border: 1px solid #cbd2d9;
+  font-size: 1.5vw;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  outline: none;
+}
+.bton {
+  border: none;
+  font-size: 1.5vw;
+  color: white;
+  background-color: #0284c7;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+}
+.secondCon {
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+.countP {
+  font-size: 1.2vw;
+  color: #334155;
+}
+.noP {
+  color: white;
+  font-size: 1.2vw;
+  background-color: #0284c7;
+  padding: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 4px;
+}
+.listCon {
+  width: 90vw;
+  margin: 0;
+  padding: 0;
+}
